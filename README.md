@@ -428,6 +428,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
+- [Shaikh Faruk](https://portfolio-faruk.vercel.app/)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shubham Tarade](https://coder-shanks.github.io/)
 - [Shuvam Manna](http://shuvam.xyz)
